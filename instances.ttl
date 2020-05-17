@@ -1,0 +1,931 @@
+# NBA teams
+
+nba:AtlantaHawks            nba:foundedIn nba:1949 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Southeast .
+
+nba:BostonCeltics           nba:foundedIn nba:1946 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Atlantic .
+
+nba:BrooklynNets            nba:foundedIn nba:1976 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Atlantic .
+
+nba:CharlotteHornets        nba:foundedIn nba:1988 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Southeast .
+
+nba:ChicagoBulls            nba:foundedIn nba:1966 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Central .
+
+nba:ClevelandCavaliers      nba:foundedIn nba:1970 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Central .
+
+nba:DallasMavericks         nba:foundedIn nba:1980 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Southwest .
+
+nba:DenverNuggets           nba:foundedIn nba:1976 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Northwest .
+
+nba:DetroitPistons          nba:foundedIn nba:1948 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Central .
+
+nba:GoldenStateWarriors     nba:foundedIn nba:1946 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Pacific .
+
+nba:HoustonRockets          nba:foundedIn nba:1967 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Southwest .
+
+nba:IndianaPacers           nba:foundedIn nba:1976 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Central .
+
+nba:LosAngelesClippers      nba:foundedIn nba:1970 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Pacific .
+
+nba:LosAngelesLakers        nba:foundedIn nba:1948 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Pacific .
+
+nba:MemphisGrizzlies        nba:foundedIn nba:1995 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Southwest .
+
+nba:MiamiHeat               nba:foundedIn nba:1988 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Southeast .
+
+nba:MilwaukeeBucks          nba:foundedIn nba:1968 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Central .
+
+nba:MinnesotaTimberwolves   nba:foundedIn nba:1989 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Northwest .
+
+nba:NewOrleansPelicans      nba:foundedIn nba:2002 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Southwest .
+
+nba:NewYorkKnicks           nba:foundedIn nba:1946 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Atlantic .
+
+nba:OklahomaCityThunder     nba:foundedIn nba:1967 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Northwest .
+
+nba:OrlandoMagic            nba:foundedIn nba:1989 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Southeast .
+
+nba:Philadelphia76ers       nba:foundedIn nba:1949 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Atlantic .
+
+nba:PhoenixSuns             nba:foundedIn nba:1968 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Pacific .
+
+nba:PortlandTrailBlazers    nba:foundedIn nba:1970 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Northwest .
+
+nba:SacramentoKings         nba:foundedIn nba:1948 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Pacific .
+
+nba:SanAntonioSpurs         nba:foundedIn nba:1976 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Southwest .
+
+nba:TorontoRaptors          nba:foundedIn nba:1995 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Atlantic .
+
+nba:UtahJazz                nba:foundedIn nba:1974 ;
+                            nba:belongsToConference nba:Western ;
+                            nba:belongsToDivision nba:Northwest .
+
+nba:WashingtonWizards       nba:foundedIn nba:1961 ;
+                            nba:belongsToConference nba:Eastern ;
+                            nba:belongsToDivision nba:Southeast .
+
+# Atlanta Hawks
+
+nba:TraeYoung               nba:playsFor nba:AtlantaHawks ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Oklahoma ;
+                            nba:isTallCm nba:185 .
+
+nba:KevinHuerter            nba:playsFor nba:AtlantaHawks ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Maryland ;
+                            nba:isTallCm nba:201 .
+
+nba:DeandreHunter           nba:playsFor nba:AtlantaHawks ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Virginia ;
+                            nba:isTallCm nba:201 .
+
+nba:JohnCollins             nba:playsFor nba:AtlantaHawks ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:WakeForest ;
+                            nba:isTallCm nba:208 .
+
+nba:DewayneDedmon           nba:playsFor nba:AtlantaHawks ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:USC ;
+                            nba:isTallCm nba:213 .
+
+# Boston Celtics
+
+nba:KembaWalker             nba:playsFor nba:BostonCeltics ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Connecticut ;
+                            nba:isTallCm nba:185 .
+
+nba:MarcusSmart             nba:playsFor nba:BostonCeltics ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Oklahoma ;
+                            nba:isTallCm nba:193 .
+
+nba:JaysonTatum             nba:playsFor nba:BostonCeltics ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:203 .
+
+nba:GordonHayward           nba:playsFor nba:BostonCeltics ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Butler ;
+                            nba:isTallCm nba:201 .
+
+nba:DanielTheis             nba:playsFor nba:BostonCeltics ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:203 .
+
+# Brooklyn Nets
+
+nba:SpencerDinwiddie        nba:playsFor nba:BrooklynNets ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Colorado ;
+                            nba:isTallCm nba:198 .
+
+nba:JoeHarris               nba:playsFor nba:BrooklynNets ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Virginia ;
+                            nba:isTallCm nba:198 .
+
+nba:CarisLeVert             nba:playsFor nba:BrooklynNets ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:198 .
+
+nba:WilsonChandler          nba:playsFor nba:BrooklynNets ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:DePaul ;
+                            nba:isTallCm nba:203 .
+
+nba:DeAndreJordan           nba:playsFor nba:BrooklynNets ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Texas ;
+                            nba:isTallCm nba:211 .
+
+# Charlotte Hornets
+
+nba:DevonteGraham           nba:playsFor nba:CharlotteHornets ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Kansas ;
+                            nba:isTallCm nba:188 .
+
+nba:MilesBridges            nba:playsFor nba:CharlotteHornets ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:201 .
+
+nba:PJWashington            nba:playsFor nba:CharlotteHornets ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:203 .
+
+nba:CodyMartin              nba:playsFor nba:CharlotteHornets ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Nevada ;
+                            nba:isTallCm nba:198 .
+
+nba:CodyZeller              nba:playsFor nba:CharlotteHornets ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Indiana ;
+                            nba:isTallCm nba:213 .
+
+# Chicago Bulls
+
+nba:CobyWhite               nba:playsFor nba:ChicagoBulls ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:NorthCarolina ;
+                            nba:isTallCm nba:196 .
+
+nba:DenzelValentine         nba:playsFor nba:ChicagoBulls ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:196 .
+
+nba:ShaquilleHarrison       nba:playsFor nba:ChicagoBulls ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Tulsa ;
+                            nba:isTallCm nba:193 .
+
+nba:LauriMarkkanen          nba:playsFor nba:ChicagoBulls ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:213 .
+
+nba:WendellCarterJr         nba:playsFor nba:ChicagoBulls ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:208 .
+
+# Cleveland Cavaliers
+
+nba:MatthewDelavedova       nba:playsFor nba:ClevelandCavaliers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:SaintMary ;
+                            nba:isTallCm nba:193 .
+
+nba:CollinSexton            nba:playsFor nba:ClevelandCavaliers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:188 ;
+                            nba:isTallCm nba:Alabama .
+
+nba:CediOsman               nba:playsFor nba:ClevelandCavaliers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba: ;
+                            nba:isTallCm nba: .
+
+nba:KevinLove               nba:playsFor nba:ClevelandCavaliers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:208 .
+
+nba:AndreDrummond           nba:playsFor nba:ClevelandCavaliers ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Connecticut ;
+                            nba:isTallCm nba:211 .
+
+# Dallas Mavericks
+
+nba:TimHardaway             nba:playsFor nba:DallasMavericks ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:198 .
+
+nba:SethCurry               nba:playsFor nba:DallasMavericks ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:188 .
+
+nba:LukaDoncic              nba:playsFor nba:DallasMavericks ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:201 .
+
+nba:KristapsPorzingis       nba:playsFor nba:DallasMavericks ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:221 .
+
+nba:DwightPowell            nba:playsFor nba:DallasMavericks ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Stanford ;
+                            nba:isTallCm nba:211 .
+
+# Denver Nuggets
+
+nba:JamalMurray             nba:playsFor nba:DenverNuggets ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:193 .
+
+nba:GaryHarris              nba:playsFor nba:DenverNuggets ;
+                            nba:playsAs nba:ShootingGuard;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:193 .
+
+nba:WillBarton              nba:playsFor nba:DenverNuggets ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Memphis ;
+                            nba:isTallCm nba:198 .
+
+nba:PaulMillsap             nba:playsFor nba:DenverNuggets ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Louisiana ;
+                            nba:isTallCm nba:203 .
+
+nba:NikolaJokic             nba:playsFor nba:DenverNuggets ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:211 .
+
+# Detroit Pistons
+
+nba:DerrickRose             nba:playsFor nba:DetroitPistons ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Memphis ;
+                            nba:isTallCm nba:188 .
+
+nba:BrandonKnight           nba:playsFor nba:DetroitPistons ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:191 .
+
+nba:TonySnell               nba:playsFor nba:DetroitPistons ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:201 ;
+                            nba:isTallCm nba:NewMexico .
+
+nba:BlakeGriffin            nba:playsFor nba:DetroitPistons ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Oklahoma ;
+                            nba:isTallCm nba:208 .
+
+nba:ChristianWood           nba:playsFor nba:DetroitPistons ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Nevada ;
+                            nba:isTallCm nba:208 .
+
+# Golden State Warriors
+
+nba:StephenCurry            nba:playsFor nba:GoldenStateWarriors ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Davidson ;
+                            nba:isTallCm nba:191 .
+
+nba:KlayThompson            nba:playsFor nba:GoldenStateWarriors ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Washington ;
+                            nba:isTallCm nba:201 .
+
+nba:AndrewWiggins           nba:playsFor nba:GoldenStateWarriors ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Kansas ;
+                            nba:isTallCm nba:203 .
+
+nba:DraymondGreen           nba:playsFor nba:GoldenStateWarriors ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:201 .
+
+nba:KevonLooney             nba:playsFor nba:GoldenStateWarriors ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:206 .
+
+# Houston Rockets
+
+nba:RussellWestbrook        nba:playsFor nba:HoustonRockets ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:191 .
+
+nba:JamesHarden             nba:playsFor nba:HoustonRockets ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:196 .
+
+nba:DanuelHouse             nba:playsFor nba:HoustonRockets ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Texas ;
+                            nba:isTallCm nba:201 .
+
+nba:RobertCovington         nba:playsFor nba:HoustonRockets ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Tennessee ;
+                            nba:isTallCm nba:206 .
+
+nba:PJTucker                nba:playsFor nba:HoustonRockets ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Texas ;
+                            nba:isTallCm nba:198 .
+
+# Indiana Pacers
+
+nba:AaronHoliday            nba:playsFor nba:IndianaPacers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:185 .
+
+nba:VictorOladipo           nba:playsFor nba:IndianaPacers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Indiana ;
+                            nba:isTallCm nba:192 .
+
+nba:TJWarren                nba:playsFor nba:IndianaPacers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:NCState ;
+                            nba:isTallCm nba:203 .
+
+nba:DomantasSabonis         nba:playsFor nba:IndianaPacers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Gonzaga ;
+                            nba:isTallCm nba:211 .
+
+nba:MylesTurner             nba:playsFor nba:IndianaPacers ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Texas ;
+                            nba:isTallCm nba:211 .
+
+# Los Angeles Clippers
+
+nba:PatrickBeverley         nba:playsFor nba:LosAngelesClippers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Arkansas ;
+                            nba:isTallCm nba:185 .
+
+nba:PaulGeorge              nba:playsFor nba:LosAngelesClippers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Fresno ;
+                            nba:isTallCm nba:206 .
+
+nba:KawhiLeonard            nba:playsFor nba:LosAngelesClippers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:SanDiego ;
+                            nba:isTallCm nba:201 .
+
+nba:MarcusMorris            nba:playsFor nba:LosAngelesClippers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Kansas ;
+                            nba:isTallCm nba:206 .
+
+nba:IvicaZubac              nba:playsFor nba:LosAngelesClippers ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:216 .
+
+# Los Angeles Lakers
+
+nba:AveryBradley            nba:playsFor nba:LosAngelesLakers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Austin ;
+                            nba:isTallCm nba:188 .
+
+nba:DannyGreen              nba:playsFor nba:LosAngelesLakers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:NorthCarolina ;
+                            nba:isTallCm nba:198 .
+
+nba:LeBronJames             nba:playsFor nba:LosAngelesLakers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:StVincentStMary ;
+                            nba:isTallCm nba:206 .
+
+nba:AnthonyDavis            nba:playsFor nba:LosAngelesLakers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:208 .
+
+nba:JaValeMcGee             nba:playsFor nba:LosAngelesLakers ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Nevada ;
+                            nba:isTallCm nba:213 .
+
+# Memphis Grizzlies
+
+nba:JaMorant                nba:playsFor nba:MemphisGrizzlies ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Murray ;
+                            nba:isTallCm nba:191 .
+
+nba:DeAnthonyMelton         nba:playsFor nba:MemphisGrizzlies ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:USC ;
+                            nba:isTallCm nba:193 .
+
+nba:DillonBrooks            nba:playsFor nba:MemphisGrizzlies ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Oregon ;
+                            nba:isTallCm nba:198 .
+
+nba:KyleAnderson            nba:playsFor nba:MemphisGrizzlies ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:206 .
+
+nba:JonasValanciunas        nba:playsFor nba:MemphisGrizzlies ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:213 .
+
+# Miami Heat
+
+nba:GoranDragic             nba:playsFor nba:MiamiHeat ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:191 .
+
+nba:DuncanRobinson          nba:playsFor nba:MiamiHeat ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Michigan ;
+                            nba:isTallCm nba:203 .
+
+nba:DerrickJonesJr          nba:playsFor nba:MiamiHeat ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:UNLV ;
+                            nba:isTallCm nba:201 .
+
+nba:SolomonHill             nba:playsFor nba:MiamiHeat ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:201 .
+
+nba:BamAdebayo              nba:playsFor nba:MiamiHeat ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:206 .
+
+# Milwaukee Bucks
+
+nba:EricBledsoe             nba:playsFor nba:MilwaukeeBucks ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:185 .
+
+nba:DonteDiVicenzo          nba:playsFor nba:MilwaukeeBucks ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Villanova: ;
+                            nba:isTallCm nba:193 .
+
+nba:PatConnaughton          nba:playsFor nba:MilwaukeeBucks ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:NotreDame ;
+                            nba:isTallCm nba:196 .
+
+nba:GiannisAntetokounmpo    nba:playsFor nba:MilwaukeeBucks ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:211 .
+
+nba:BrookLopez              nba:playsFor nba:MilwaukeeBucks ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Stanford ;
+                            nba:isTallCm nba:213 .
+
+# Minnesota Timberwolves
+
+nba:DAngeloRussell          nba:playsFor nba:MinnesotaTimberwolves ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Ohio ;
+                            nba:isTallCm nba:196 .
+
+nba:MalikBeasley            nba:playsFor nba:MinnesotaTimberwolves ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Florida ;
+                            nba:isTallCm nba:196 .
+
+nba:JoshOkogie              nba:playsFor nba:MinnesotaTimberwolves ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Georgia ;
+                            nba:isTallCm nba:193 .
+
+nba:JuanHernangomez         nba:playsFor nba:MinnesotaTimberwolves ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:206 .
+
+nba:NazReid                 nba:playsFor nba:MinnesotaTimberwolves ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:LSU ;
+                            nba:isTallCm nba:206 .
+
+# New Orleans Pelicans
+
+nba:LonzoBall               nba:playsFor nba:NewOrleansPelicans ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:198 .
+
+nba:JrueHoliday             nba:playsFor nba:NewOrleansPelicans ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:193 .
+
+nba:BrandonIngram           nba:playsFor nba:NewOrleansPelicans ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:206 .
+
+nba:ZionWilliamson          nba:playsFor nba:NewOrleansPelicans ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:198 .
+
+nba:DerrickFavors           nba:playsFor nba:NewOrleansPelicans ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Georgia ;
+                            nba:isTallCm nba:208 .
+
+# New York Knicks
+
+nba:ElfridPayton            nba:playsFor nba:NewYorkKnicks ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Louisiana ;
+                            nba:isTallCm nba:193 .
+
+nba:RJBarrett               nba:playsFor nba:NewYorkKnicks ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Duke ;
+                            nba:isTallCm nba:201 .
+
+nba:MoHarkless              nba:playsFor nba:NewYorkKnicks ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:StJohn ;
+                            nba:isTallCm nba:201 .
+
+nba:JuliusRandle            nba:playsFor nba:NewYorkKnicks ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:206 .
+
+nba:TajGibson               nba:playsFor nba:NewYorkKnicks ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:SouthernCalifornia ;
+                            nba:isTallCm nba:206 .
+
+# Oklahoma City Thunder
+
+nba:ChrisPaul               nba:playsFor nba:OklahomaCityThunder ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:WakeForest ;
+                            nba:isTallCm nba:183 .
+
+nba:ShaiGilgeousAlexander   nba:playsFor nba:OklahomaCityThunder ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:198 .
+
+nba:LuguentzDort            nba:playsFor nba:OklahomaCityThunder ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:191 .
+
+nba:DaniloGallinari         nba:playsFor nba:OklahomaCityThunder ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:208 .
+
+nba:StevenAdams             nba:playsFor nba:OklahomaCityThunder ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Pittsburgh ;
+                            nba:isTallCm nba:213 .
+
+# Orlando Magic
+
+nba:MarkelleFultz           nba:playsFor nba:OrlandoMagic ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Washington ;
+                            nba:isTallCm nba:193 .
+
+nba:WesleyIwundu            nba:playsFor nba:OrlandoMagic ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Kansas ;
+                            nba:isTallCm nba:201 .
+
+nba:JamesEnnis              nba:playsFor nba:OrlandoMagic ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:LongBeach ;
+                            nba:isTallCm nba:201 .
+
+nba:AaronGordon             nba:playsFor nba:OrlandoMagic ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:206 .
+
+nba:NikolaVucevic           nba:playsFor nba:OrlandoMagic ;
+                            nba:playsAs nba:Center ; 
+                            nba:studiedAt nba:USC ;
+                            nba:isTallCm nba:213 .
+
+# Philadelphia 76ers
+
+nba:BenSimmons              nba:playsFor nba:Philadelphia76ers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Louisiana ;
+                            nba:isTallCm nba:208 .
+
+nba:JoshRichardson          nba:playsFor nba:Philadelphia76ers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Tennessee ;
+                            nba:isTallCm nba:198 .
+
+nba:TobiasHarris            nba:playsFor nba:Philadelphia76ers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Tennessee ;
+                            nba:isTallCm nba:206 .
+
+nba:AlHorford               nba:playsFor nba:Philadelphia76ers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Florida ;
+                            nba:isTallCm nba:208 .
+
+nba:JoelEmbiid              nba:playsFor nba:Philadelphia76ers ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Kansas ;
+                            nba:isTallCm nba:213 .
+
+# Phoenix Suns
+
+nba:DevinBooker             nba:playsFor nba:PhoenixSuns ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:198 .
+
+nba:MikalBridges            nba:playsFor nba:PhoenixSuns ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Villanova ;
+                            nba:isTallCm nba:201 .
+
+nba:DarioSaric              nba:playsFor nba:PhoenixSuns ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:208 .
+
+nba:DeAndreAyton            nba:playsFor nba:PhoenixSuns ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Arizona ;
+                            nba:isTallCm nba:216 .
+
+nba:AronBaynes              nba:playsFor nba:PhoenixSuns ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Washington ;
+                            nba:isTallCm nba:208 .
+
+# Portland Trail Blazers
+
+nba:DamianLillard           nba:playsFor nba:PortlandTrailBlazers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Weber ;
+                            nba:isTallCm nba:191 .
+
+nba:CJMcCollum              nba:playsFor nba:PortlandTrailBlazers ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Lehigh ;
+                            nba:isTallCm nba:193 .
+
+nba:TrevorAriza             nba:playsFor nba:PortlandTrailBlazers ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:203 .
+
+nba:CarmeloAnthony          nba:playsFor nba:PortlandTrailBlazers ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Syracuse ;
+                            nba:isTallCm nba:203 .
+
+nba:HassanWhiteside         nba:playsFor nba:PortlandTrailBlazers ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Marshall ;
+                            nba:isTallCm nba:213 .
+
+# Sacramento Kings
+
+nba:DeAaronFox              nba:playsFor nba:SacramentoKings ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Kentucky ;
+                            nba:isTallCm nba:191 .
+
+nba:BogdanBogdanovic        nba:playsFor nba:SacramentoKings ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:198 .
+
+nba:HarrisonBarnes          nba:playsFor nba:SacramentoKings ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:NorthCarolina ;
+                            nba:isTallCm nba:203 .
+
+nba:NemanjaBjelica          nba:playsFor nba:SacramentoKings ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:209 .
+
+nba:RichaunHolmes           nba:playsFor nba:SacramentoKings ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:BowlingGreen ;
+                            nba:isTallCm nba:208 .
+
+# San Antonio Spurs
+
+nba:DejounteMurray          nba:playsFor nba:SanAntonioSpurs ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Washington ;
+                            nba:isTallCm nba:196 .
+
+nba:DeMarDeRozan            nba:playsFor nba:SanAntonioSpurs ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:USC ;
+                            nba:isTallCm nba:201 .
+
+nba:DerrickWhite            nba:playsFor nba:SanAntonioSpurs ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Colorado ;
+                            nba:isTallCm nba:193 .
+
+nba:LaMarcusAldridge        nba:playsFor nba:SanAntonioSpurs ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Texas ;
+                            nba:isTallCm nba:211 .
+
+nba:DrewEubanks             nba:playsFor nba:SanAntonioSpurs ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Oregon ;
+                            nba:isTallCm nba:208 .
+
+# Toronto Raptors
+
+nba:KyleLowry               nba:playsFor nba:TorontoRaptors ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Villanova ;
+                            nba:isTallCm nba:183 .
+
+nba:NormanPowell            nba:playsFor nba:TorontoRaptors ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:UCLA ;
+                            nba:isTallCm nba:193 .
+
+nba:OGAnunoby               nba:playsFor nba:TorontoRaptors ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Indiana ;
+                            nba:isTallCm nba:203Nor .
+
+nba:PascalSiakam            nba:playsFor nba:TorontoRaptors ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:NewMexico ;
+                            nba:isTallCm nba:206 .
+
+nba:SergeIbaka              nba:playsFor nba:TorontoRaptors ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Africa ;
+                            nba:isTallCm nba:208 .
+
+# Utah Jazz
+
+nba:MikeConley              nba:playsFor nba:UtahJazz ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Ohio ;
+                            nba:isTallCm nba:185 .
+
+nba:DonovanMitchell         nba:playsFor nba:UtahJazz ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Louisville ;
+                            nba:isTallCm nba:191 .
+
+nba:BojanBogdanovic         nba:playsFor nba:UtahJazz ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Europe ;
+                            nba:isTallCm nba:203 .
+
+nba:RoyceONeale             nba:playsFor nba:UtahJazz ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Baylor ;
+                            nba:isTallCm nba:198 .
+
+nba:TonyBradley             nba:playsFor nba:UtahJazz ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:NorthCarolina ;
+                            nba:isTallCm nba:208 .
+
+# Washington Wizards
+
+nba:ShabazzNapier           nba:playsFor nba:WashingtonWizards ;
+                            nba:playsAs nba:PointGuard ;
+                            nba:studiedAt nba:Connecticut ;
+                            nba:isTallCm nba:185 .
+
+nba:BradleyBeal             nba:playsFor nba:WashingtonWizards ;
+                            nba:playsAs nba:ShootingGuard ;
+                            nba:studiedAt nba:Florida ;
+                            nba:isTallCm nba:196 .
+
+nba:JeromeRobinson          nba:playsFor nba:WashingtonWizards ;
+                            nba:playsAs nba:SmallForward ;
+                            nba:studiedAt nba:Boston ;
+                            nba:isTallCm nba:196 .
+
+nba:RuiHachimura            nba:playsFor nba:WashingtonWizards ;
+                            nba:playsAs nba:PowerForward ;
+                            nba:studiedAt nba:Gonzaga ;
+                            nba:isTallCm nba:206 .
+
+nba:ThomasBryant            nba:playsFor nba:WashingtonWizards ;
+                            nba:playsAs nba:Center ;
+                            nba:studiedAt nba:Indiana ;
+                            nba:isTallCm nba:208 .
